@@ -2,12 +2,12 @@
 
 
 #### 0. Gym interface
-- `00-gym.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/00-gym.ipynb)
+- `00-gym.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/00-gym.ipynb)
 
 
 #### 1. Genetic algorithm
 - [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/01-genetics.pdf)
-- `01-genetics.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/01-genetics.ipynb)
+- `01-genetics.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/01-genetics.ipynb)
 
 ##### Additional materials
 * __[recommended]__ - awesome openai post about evolution strategies - [blog post](https://blog.openai.com/evolution-strategies/), [article](https://arxiv.org/abs/1703.03864)
@@ -20,7 +20,7 @@
 
 #### 2. Cross Entropy Method
 - [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/02-cem.pdf)
-- `02-cem.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/02-cem.ipynb)
+- `02-cem.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/02-cem.ipynb)
 
 ##### Additional materials
 * __[main]__ Video-intro by David Silver - https://www.youtube.com/watch?v=2pWv7GOvuf0
@@ -30,7 +30,7 @@
 
 #### 3. Tabular
 - [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/03-tabular.pdf)
-- `03-tabular.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/03-tabular.ipynb)
+- `03-tabular.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/03-tabular.ipynb)
 
 ##### Additional materials
 * __[main]__ lecture by David Silver - [url](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
@@ -41,7 +41,7 @@
 
 #### 4. DQN
 - [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/04-dqn.pdf)
-- `04-dqn.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/04-dqn.ipynb)
+- `04-dqn.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/04-dqn.ipynb)
 
 ##### Additional materials
 * Lecture by David Silver - [video part I](https://www.youtube.com/watch?v=PnHCvfgC_ZA), [video part II](https://www.youtube.com/watch?v=0g4j2k_Ggc4&t=43s)
