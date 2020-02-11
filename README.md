@@ -1,13 +1,16 @@
-## RL teaser
+## RL Intro
 
+<details>
+<summary>2019 edition - Gym intro, Genetics, CEM, Tabular DQN</summary>
+<p>
 
 #### 0. Gym interface
-- `00-gym.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/00-gym.ipynb)
+- `00-gym.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/2019/code/00-gym.ipynb)
 
 
 #### 1. Genetic algorithm
-- [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/01-genetics.pdf)
-- `01-genetics.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/01-genetics.ipynb)
+- [slides](./2019/slides/01-genetics.pdf)
+- `01-genetics.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/2019/code/01-genetics.ipynb)
 
 ##### Additional materials
 * __[recommended]__ - awesome openai post about evolution strategies - [blog post](https://blog.openai.com/evolution-strategies/), [article](https://arxiv.org/abs/1703.03864)
@@ -19,8 +22,8 @@
 
 
 #### 2. Cross Entropy Method
-- [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/02-cem.pdf)
-- `02-cem.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/02-cem.ipynb)
+- [slides](./2019/slides/02-cem.pdf)
+- `02-cem.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/2019/code/02-cem.ipynb)
 
 ##### Additional materials
 * __[main]__ Video-intro by David Silver - https://www.youtube.com/watch?v=2pWv7GOvuf0
@@ -29,8 +32,8 @@
 
 
 #### 3. Tabular
-- [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/03-tabular.pdf)
-- `03-tabular.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/03-tabular.ipynb)
+- [slides](./2019/slides/03-tabular.pdf)
+- `03-tabular.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/2019/code/03-tabular.ipynb)
 
 ##### Additional materials
 * __[main]__ lecture by David Silver - [url](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
@@ -40,8 +43,8 @@
 
 
 #### 4. DQN
-- [slides](https://github.com/Scitator/rl-teaser/blob/master/slides/04-dqn.pdf)
-- `04-dqn.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/code/04-dqn.ipynb)
+- [slides](./2019/slides/04-dqn.pdf)
+- `04-dqn.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Scitator/rl-teaser/blob/master/2019/code/04-dqn.ipynb)
 
 ##### Additional materials
 * Lecture by David Silver - [video part I](https://www.youtube.com/watch?v=PnHCvfgC_ZA), [video part II](https://www.youtube.com/watch?v=0g4j2k_Ggc4&t=43s)
@@ -51,3 +54,29 @@
 * N-step temporal difference from Sutton's book - [suttonbook](http://incompleteideas.net/book/RLbook2018.pdf) __chapter 7__
 * Eligibility traces from Sutton's book - [suttonbook](http://incompleteideas.net/book/RLbook2018.pdf) __chapter 12__
 * Blog post on eligibility traces - [url](http://pierrelucbacon.com/traces/)
+</p>
+</details>
+
+
+<details>
+<summary>2020 edition - Deep RL, DQN, DDPG</summary>
+<p>
+
+</p>
+</details>
+
+<details>
+<summary>Credits</summary>
+<p>
+
+* [Berkeley CS188x](http://ai.berkeley.edu/home.html)
+* [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+* [yandexdataschool/Practical_RL](https://github.com/yandexdataschool/Practical_RL)
+* [yandexdataschool/AgentNet](https://github.com/yandexdataschool/AgentNet)
+* [rl-course-experiments](https://github.com/Scitator/rl-course-experiments)
+* [RL-Adventure](https://github.com/higgsfield/RL-Adventure)
+* [RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)
+
+</p>
+</details>
