@@ -7,3 +7,4 @@ requests
 tqdm
 gym
 torch
+recsim
